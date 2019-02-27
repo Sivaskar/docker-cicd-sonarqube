@@ -1,5 +1,5 @@
 FROM openjdk:10-jdk-slim
-LABEL version="1.0" maintainer="Kayla Altepeter"
+LABEL version="1.0" maintainer="Sivaskar"
 ENV SONAR_SCANNER_VERSION 3.3.0.1492
 
 # install tools
